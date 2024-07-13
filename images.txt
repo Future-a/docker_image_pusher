@@ -7,7 +7,7 @@ postgres:16.3
 homeassistant/home-assistant:2024.7.2
 eclipse-mosquitto:2.0.18
 esphome/esphome:2024.6.6
-nodered/node-red:3.1.9-18
+nodered/node-red:4.0.2-22
 postgres:latest
 homeassistant/home-assistant:latest
 eclipse-mosquitto:latest
