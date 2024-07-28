@@ -13,3 +13,8 @@ homeassistant/home-assistant:latest
 eclipse-mosquitto:latest
 esphome/esphome:latest
 nodered/node-red:latest
+shmilyin/nas-tools:2.9.0
+linuxserver/jackett:0.21.1680
+johngong/qbittorrent:4.4.0
+allanpk716/chinesesubfinder:v0.55.3
+emby/embyserver:4.9.0.13
