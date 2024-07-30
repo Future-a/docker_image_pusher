@@ -22,4 +22,5 @@ johngong/qbittorrent:latest
 linuxserver/jackett:latest
 emby/embyserver:latest
 allanpk716/chinesesubfinder:latest
-
+jxxghp/moviepilot:latest
+linuxserver/transmission:latest
