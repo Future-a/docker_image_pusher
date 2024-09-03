@@ -36,3 +36,4 @@ jxxghp/moviepilot:latest
 
 linuxserver/transmission:latest
 
+xhofe/alist:latest
