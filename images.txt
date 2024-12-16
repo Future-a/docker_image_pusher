@@ -7,6 +7,7 @@ postgres:16.3
 postgres:latest
 
 homeassistant/home-assistant:2024.7.3
+homeassistant/home-assistant:2024.12.3
 homeassistant/home-assistant:latest
 
 eclipse-mosquitto:2.0.18
