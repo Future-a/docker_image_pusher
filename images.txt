@@ -12,6 +12,23 @@ python:alpine3.19
 postgres:latest
 
 homeassistant/home-assistant:latest
+#supervisor
+ghcr.io/home-assistant/qemuarm-64-homeassistant:2025.3.4
+ghcr.io/home-assistant/qemuarm-64-homeassistant:latest
+ghcr.io/home-assistant/aarch64-hassio-supervisor:latest
+ghcr.io/home-assistant/aarch64-hassio-supervisor:2025.03.03
+ghcr.io/home-assistant/aarch64-hassio-cli:latest
+ghcr.io/home-assistant/aarch64-hassio-cli:2025.02.0
+ghcr.io/home-assistant/aarch64-hassio-cli:latest
+ghcr.io/home-assistant/aarch64-hassio-dns:latest
+ghcr.io/home-assistant/aarch64-hassio-dns:2025.02.0
+ghcr.io/home-assistant/aarch64-hassio-multicast:latest
+ghcr.io/home-assistant/aarch64-hassio-multicast:2024.03.0
+ghcr.io/home-assistant/aarch64-hassio-audio:latest
+ghcr.io/home-assistant/aarch64-hassio-audio:2023.12.0
+ghcr.io/home-assistant/aarch64-hassio-observer:latest
+ghcr.io/home-assistant/aarch64-hassio-observer:2023.06.0
+#end
 
 eclipse-mosquitto:latest
 
